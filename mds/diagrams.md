@@ -1,4 +1,4 @@
-```
+```mermaid
 ---
 title: Animal example
 ---
