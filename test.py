@@ -1,2 +1,2 @@
 print("Hello World!")
-print("Fuck)")
+print("Fuck og shit")
